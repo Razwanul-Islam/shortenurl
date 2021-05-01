@@ -9,7 +9,6 @@ colorama==0.4.4
 constantly==15.1.0
 country-list==0.2.1
 dataclasses==0.6
-dearpygui==0.6.281
 distlib==0.3.1
 dj-database-url==0.5.0
 Django==3.1.4
@@ -53,8 +52,7 @@ PyScreeze==0.1.27
 python-dateutil==2.8.1
 PyTweening==1.0.3
 pytz==2020.4
-scikit-learn==0.23.2
-scipy==1.5.4
+gunicorn==20.1.0
 six==1.15.0
 sqlparse==0.4.1
 threadpoolctl==2.1.0
